@@ -1,0 +1,12 @@
+{
+  "name": "despierta-duo-ejemplos",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "vitest run" },
+  "dependencies": { "luxon": "3.7.2" },
+  "devDependencies": {
+    "@types/luxon": "3.6.2",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  }
+}
