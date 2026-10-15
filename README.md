@@ -1,4 +1,4 @@
-# SleepyTwo · despertador para parejas
+# SleepyTwo · despertador para parejas y amigos
 
 > **In English:** A mobile alarm app for couples (Expo / React Native + Firebase). Each night
 > both play short mini-games; in the morning the alarm and the result decide who wins, with a
